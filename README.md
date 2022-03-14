@@ -3,10 +3,10 @@
 Algumas informações sobre mim:
 
 - 👨‍💻 Aluno de Ciências da Computação na FEI
-- 📖 escritor e editor amador
-- 🐱‍💻Gosto de escrever
-- 🐱‍👤Aprendo rápido
-- 🐱‍🚀Gosto de "voar" na programação
+- 📖 Escritor e editor amador
+- 🐱‍💻 Gosto de escrever
+- 🐱‍👤 Aprendo rápido
+- 🐱‍🚀 Gosto de "voar" na programação
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fun fact: Tentando aprender Cobol e fortran
 
