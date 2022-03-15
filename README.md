@@ -33,7 +33,7 @@ Algumas informações sobre mim:
   <img align="center" alt="Cayque-github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
   <img align="center" alt="Cayque-java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Cayque-git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
-  
+  </div>
 <br> <br>
  
   
