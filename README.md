@@ -6,7 +6,6 @@ Algumas informações sobre mim:
 - 📖 Escritor e editor amador
 - 🐱‍💻 Gosto de escrever
 - 🐱‍👤 Aprendo rápido
-- 🐱‍🚀 Gosto de "voar" na programação
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fun fact: Tentando aprender Cobol e fortran
 
