@@ -9,7 +9,7 @@ Sou um estudante de Ciência da computação na FEI, trabalho como Segurança da
 Aqui estão alguns dos meus projetos mais recentes:
 
 - **[Jogo de Air-Hockey em 3D](https://github.com/NeonBrasil/Air-Hockey)**: Um projeto em Unity 6 para testar conhecimentos.
-- **[Lógica de primeria ordem em Prolog](https://github.com/NeonBrasil/L-gico-Primeira-Ordem)**: Descrição breve do projeto.
+- **[Lógica de primeria ordem em Prolog](https://github.com/NeonBrasil/L-gico-Primeira-Ordem)**
 
 ## Interesses
 
