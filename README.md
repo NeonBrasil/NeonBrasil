@@ -22,11 +22,7 @@ Aqui estão alguns dos meus projetos mais recentes:
 - **Email**: [cayquecicarelli@gmail.com](cayquecicarelli@gmail.com)
 - **LinkedIn**: [Cayque Cicarelli](https://www.linkedin.com/in/cayque-cicarelli/)
 
-## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=NeonBrasil&show_icons=true&theme=radical)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=NeonBrasil&layout=compact&theme=radical)
 
 ---
 
