@@ -64,6 +64,16 @@ Here are some of the projects I've been working on:
 
 ---
 
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NeonBrasil&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=true&hide=prs,contribs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeonBrasil&layout=compact&langs_count=7&theme=radical"/>
+</p>
+
+---
+
 ## 📫 Contact
 
 Feel free to explore my repositories or reach out for partnerships, freelance work, or just to exchange ideas!
